@@ -1,0 +1,6 @@
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+c:\users\anthonywhitelaw\documents\visual studio 2012\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
